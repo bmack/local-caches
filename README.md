@@ -1,4 +1,4 @@
-### Use SQLite as Cache Backend for your TYPO3 projects
+# Use SQLite as Cache Backend for your TYPO3 projects
 
 Provides a cache backend for TYPO3 that stores all cache information in SQLite.
 
