@@ -2,7 +2,7 @@
     "name": "bmack/local-caches",
     "description": "Provides a custom SQLite-based cache backend for TYPO3",
     "type": "library",
-    "license": "GPL 2+",
+    "license": "GPL-2.0-or-later",
     "authors": [
         {
             "name": "Benni Mack",
